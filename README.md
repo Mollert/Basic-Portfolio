@@ -1,1 +1,1 @@
-Yes this is a Basic-Portfolio which was our first homework assignment.  A very professional web page
+This is my final files coving this assignment.  Some pretty sledding to get started but once the main framework was set, adjusting the pieces was quite fun.  Looking forward to the next assignment.
